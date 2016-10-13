@@ -1,4 +1,4 @@
-.container{
+.sidebar{
   width: 15%;
   float:left;
   background-color: lightgrey;
@@ -13,7 +13,7 @@
 }
 .container-fluid img{
   width: 150px;
-  height: 150px;
+  height: 50px;
 }
 .well .today{
   background-color: lightgreen;
@@ -25,3 +25,5 @@
 .well .picture{
   background-color: purple;
 }
+.painting{text-align: center;}
+.pict{display: block; margin: auto;}
