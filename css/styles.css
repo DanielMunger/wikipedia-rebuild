@@ -1,0 +1,27 @@
+.container{
+  width: 15%;
+  float:left;
+  background-color: lightgrey;
+}
+.content{
+  width: 85%;
+  float: right;
+}
+.navbar{
+  width:85%;
+  float: right;
+}
+.container-fluid img{
+  width: 150px;
+  height: 150px;
+}
+.well .today{
+  background-color: lightgreen;
+}
+.well .on{
+  background-color: lightblue;
+
+}
+.well .picture{
+  background-color: purple;
+}
